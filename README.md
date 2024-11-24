@@ -78,7 +78,7 @@ image[height//2:, :width//2]=smaller_frame
 image[:height//2, width//2:]=smaller_frame
 image[height//2:, width//2:]=smaller_frame
 
-cv2.imshow('212222240110_Thiyagarajan',image)
+cv2.imshow('penguin',image)
 
 cv2.waitKey(5000)  
 
