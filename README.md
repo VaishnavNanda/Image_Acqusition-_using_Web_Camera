@@ -122,20 +122,34 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![webcam_img](https://github.com/user-attachments/assets/8f2bfa2e-2559-4966-bfec-0d8df75a8b3b)
+
+
+![WhatsApp Image 2024-03-08 at 08 44 18_2fa8e912](https://github.com/VarshaAjith1110/Image_Acqusition-_using_Web_Camera/assets/94222288/e2ab2692-6393-4928-9d0a-5850fd650408)
+
 
 
 ### ii) Display the video
-![captured_frame](https://github.com/user-attachments/assets/7f17a65c-4eb4-44e7-a07e-f9fb4c9c4a25)
+![WhatsApp Image 2024-03-08 at 08 40 46_fc586d47](https://github.com/VarshaAjith1110/Image_Acqusition-_using_Web_Camera/assets/94222288/d2fe9987-b537-49e2-85bd-ddf7dc93473a)
+
+
+
 
 ### iii) Display the video by resizing the window
 
-![captured_img1](https://github.com/user-attachments/assets/df0bdb6d-a7e6-4fc6-a0f1-a88584c502ab)
+![WhatsApp Image 2024-03-08 at 08 44 18_5489b7bb](https://github.com/VarshaAjith1110/Image_Acqusition-_using_Web_Camera/assets/94222288/b5c3e782-53b0-47b9-8c0f-afbe63798d61)
+
+
+
+
+
 
 
 ### iv) Rotate and display the video
 
-![captured_img2](https://github.com/user-attachments/assets/6f10059f-b84f-4cc3-b346-68b15123ccfd)
+![WhatsApp Image 2024-03-08 at 08 44 18_05942d88](https://github.com/VarshaAjith1110/Image_Acqusition-_using_Web_Camera/assets/94222288/a2e91475-e1df-4c71-8b08-708de719b888)
+
+
+
 
 
 ## Result:
